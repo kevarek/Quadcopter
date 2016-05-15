@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="STM32F0xx.svd" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="360041" topLine="10221" />
+		</Cursor>
+	</File>
+	<File name="Src\blinky.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2169" topLine="65" />
+		</Cursor>
+	</File>
+	<File name="Inc\blinky.h" open="0" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="291" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Inc\board.h" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="105" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Src\circbuffer.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1862" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Inc\circbuffer.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="840" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="Src\comm.c" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1470" topLine="53" />
+		</Cursor>
+	</File>
+	<File name="Inc\comm.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="98" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Src\engines.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6071" topLine="173" />
+		</Cursor>
+	</File>
+	<File name="Inc\engines.h" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="240" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="Src\main.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="351" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="Inc\main.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="188" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Src\mpu6050.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4675" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Inc\mpu6050.h" open="0" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1294" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="Src\perftests.c" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1222" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="Inc\perftests.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="193" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Src\psd.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5266" topLine="154" />
+		</Cursor>
+	</File>
+	<File name="Inc\psd.h" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1451" topLine="37" />
+		</Cursor>
+	</File>
+	<File name="readme.txt" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="161" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Src\sensors.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4363" topLine="98" />
+		</Cursor>
+	</File>
+	<File name="Inc\sensors.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="564" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="Src\slidavg.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="696" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Inc\slidavg.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="367" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Src\stabilisation.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="698" topLine="96" />
+		</Cursor>
+	</File>
+	<File name="Inc\stabilisation.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="167" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="Src\startup_stm32f0xx.S" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5961" topLine="137" />
+		</Cursor>
+	</File>
+	<File name="Inc\stm32f0xx.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="142152" topLine="1955" />
+		</Cursor>
+	</File>
+	<File name="STM32F0xx_StdPeriph_Lib_V1.1.0\Libraries\STM32F0xx_StdPeriph_Driver\src\stm32f0xx_adc.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="42608" topLine="1060" />
+		</Cursor>
+	</File>
+	<File name="STM32F0xx_StdPeriph_Lib_V1.1.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11409" topLine="242" />
+		</Cursor>
+	</File>
+	<File name="Inc\stm32f0xx_conf.h" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1956" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="STM32F0xx_StdPeriph_Lib_V1.1.0\Libraries\STM32F0xx_StdPeriph_Driver\src\stm32f0xx_dbgmcu.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5446" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="STM32F0xx_StdPeriph_Lib_V1.1.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_dbgmcu.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="STM32F0xx_StdPeriph_Lib_V1.1.0\Libraries\STM32F0xx_StdPeriph_Driver\src\stm32f0xx_gpio.c" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="833" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="STM32F0xx_StdPeriph_Lib_V1.1.0\Libraries\STM32F0xx_StdPeriph_Driver\src\stm32f0xx_i2c.c" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="51856" topLine="1409" />
+		</Cursor>
+	</File>
+	<File name="STM32F0xx_StdPeriph_Lib_V1.1.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_i2c.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3906" topLine="98" />
+		</Cursor>
+	</File>
+	<File name="Src\stm32f0xx_it.c" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2466" topLine="56" />
+		</Cursor>
+	</File>
+	<File name="STM32F0xx_StdPeriph_Lib_V1.1.0\Libraries\STM32F0xx_StdPeriph_Driver\src\stm32f0xx_misc.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3030" topLine="56" />
+		</Cursor>
+	</File>
+	<File name="STM32F0xx_StdPeriph_Lib_V1.1.0\Libraries\STM32F0xx_StdPeriph_Driver\src\stm32f0xx_rcc.c" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="47612" topLine="1186" />
+		</Cursor>
+	</File>
+	<File name="STM32F0xx_StdPeriph_Lib_V1.1.0\Libraries\STM32F0xx_StdPeriph_Driver\src\stm32f0xx_tim.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15837" topLine="406" />
+		</Cursor>
+	</File>
+	<File name="STM32F0xx_StdPeriph_Lib_V1.1.0\Libraries\STM32F0xx_StdPeriph_Driver\src\stm32f0xx_usart.c" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="78833" topLine="1896" />
+		</Cursor>
+	</File>
+	<File name="Src\system_stm32f0xx.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11490" topLine="294" />
+		</Cursor>
+	</File>
+</EmBlocks_layout_file>

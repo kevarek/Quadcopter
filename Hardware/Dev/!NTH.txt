@@ -1,0 +1,24 @@
+Components placed on MCU PCB
+	STM32F303 MCU
+	Cross PCB connector	( USART2, USART3, SPI, I2C, 2..8 GPIO)
+	
+	XBEE - USART1														USART1:	PA9=pin30=US1_TX, PA10=pin31=US1_RX, GND, 3V3
+	Acc + gyro - I2C													I2C1:	PA14=I2C1_SDA=pin37, PA15=I2C1_SCL=pin38
+	Compass - I2C														I2C1:
+	Barometer - I2C														I2C1:
+	LED out - 6x GPIO pins with output buffers
+	ESC ctrl - 4x GPIO pins in row
+	Battery voltage level - 1x ADC input								ADC1:	PA0=ADC1_IN1
+	
+	
+	
+	
+Expansion board
+	Cross PCB connector
+
+	Ultrasonic range sensor - 2x GPIO
+	Camera - USART2														USART2: PA2=US2_TX=pin12, PA3=US2_RX=pin13
+	GPS - USART3														USART3: PB10=US3_TX=pin21, PB11=US3_RX=pin22
+	SD card slot - SPI													SPI1:	PA4=NSS=pin14, PA5=SCK=15, PA6=MISO=pin16, PA7=MOSI=pin17
+	Camera gimball - I2C												I2C1:
+	

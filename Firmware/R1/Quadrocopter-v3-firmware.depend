@@ -1,0 +1,362 @@
+# depslib dependency file v1.0
+1382602419 source:c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\src\startup_stm32f0xx.s
+
+1382602419 source:c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\src\system_stm32f0xx.c
+	"stm32f0xx.h"
+
+1382602419 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\inc\stm32f0xx.h
+	"core_cm0.h"
+	"system_stm32f0xx.h"
+	<stdint.h>
+	"stm32f0xx_conf.h"
+
+1382602419 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\inc\system_stm32f0xx.h
+
+1382602419 source:c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\src\main.c
+
+1359629012 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\cmsis\include\core_cm0.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1359629013 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\cmsis\include\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1359629013 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\cmsis\include\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1375356356 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\inc\stm32f0xx_conf.h
+	"stm32f0xx_adc.h"
+	"stm32f0xx_cec.h"
+	"stm32f0xx_crc.h"
+	"stm32f0xx_comp.h"
+	"stm32f0xx_dac.h"
+	"stm32f0xx_dbgmcu.h"
+	"stm32f0xx_dma.h"
+	"stm32f0xx_exti.h"
+	"stm32f0xx_flash.h"
+	"stm32f0xx_gpio.h"
+	"stm32f0xx_syscfg.h"
+	"stm32f0xx_i2c.h"
+	"stm32f0xx_iwdg.h"
+	"stm32f0xx_pwr.h"
+	"stm32f0xx_rcc.h"
+	"stm32f0xx_rtc.h"
+	"stm32f0xx_spi.h"
+	"stm32f0xx_tim.h"
+	"stm32f0xx_usart.h"
+	"stm32f0xx_wwdg.h"
+	"stm32f0xx_misc.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_adc.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_cec.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_crc.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_comp.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_dac.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_dbgmcu.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_dma.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_exti.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_flash.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_gpio.h
+	"stm32f0xx.h"
+
+1375356277 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_syscfg.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_i2c.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_iwdg.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_pwr.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_rcc.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_rtc.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_spi.h
+	"stm32f0xx.h"
+
+1375356277 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_tim.h
+	"stm32f0xx.h"
+
+1375356277 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_usart.h
+	"stm32f0xx.h"
+
+1375356277 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_wwdg.h
+	"stm32f0xx.h"
+
+1375356276 c:\users\standa\desktop\projects\quadrocopter\quadrovopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_misc.h
+	"stm32f0xx.h"
+
+1387147423 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\startup_stm32f0xx.s
+
+1375352756 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\stm32f0xx_it.c
+	"stm32f0xx_it.h"
+
+1382599115 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\stm32f0xx_it.h
+
+1383166685 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\system_stm32f0xx.c
+	"stm32f0xx.h"
+
+1382598819 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\stm32f0xx.h
+	"core_cm0.h"
+	"system_stm32f0xx.h"
+	<stdint.h>
+	"stm32f0xx_conf.h"
+
+1359625412 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\cmsis\include\core_cm0.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1359625413 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\cmsis\include\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1359625413 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\cmsis\include\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1382598819 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\system_stm32f0xx.h
+
+1386188791 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\stm32f0xx_conf.h
+	"stm32f0xx_adc.h"
+	"stm32f0xx_dbgmcu.h"
+	"stm32f0xx_exti.h"
+	"stm32f0xx_gpio.h"
+	"stm32f0xx_syscfg.h"
+	"stm32f0xx_i2c.h"
+	"stm32f0xx_iwdg.h"
+	"stm32f0xx_pwr.h"
+	"stm32f0xx_rcc.h"
+	"stm32f0xx_tim.h"
+	"stm32f0xx_usart.h"
+	"stm32f0xx_misc.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_adc.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_cec.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_crc.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_comp.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_dac.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_dbgmcu.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_dma.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_exti.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_flash.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_gpio.h
+	"stm32f0xx.h"
+
+1375352677 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_syscfg.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_i2c.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_iwdg.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_pwr.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_rcc.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_rtc.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_spi.h
+	"stm32f0xx.h"
+
+1375352677 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_tim.h
+	"stm32f0xx.h"
+
+1375352677 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_usart.h
+	"stm32f0xx.h"
+
+1375352677 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_wwdg.h
+	"stm32f0xx.h"
+
+1375352676 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\inc\stm32f0xx_misc.h
+	"stm32f0xx.h"
+
+1387238958 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\main.c
+	"main.h"
+	"stabilisation.h"
+	"sensors.h"
+	"comm.h"
+	"perftests.h"
+
+1375352677 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\src\stm32f0xx_misc.c
+	"stm32f0xx_misc.h"
+
+1385585121 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\src\stm32f0xx_rcc.c
+	"stm32f0xx_rcc.h"
+
+1386975683 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\blinky.c
+	"blinky.h"
+	"stm32f0xx.h"
+	"main.h"
+	"sensors.h"
+	"comm.h"
+
+1386787094 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\blinky.h
+
+1375352677 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\src\stm32f0xx_gpio.c
+	"stm32f0xx_gpio.h"
+	"stm32f0xx_rcc.h"
+
+1375352678 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\src\stm32f0xx_tim.c
+	"stm32f0xx_tim.h"
+	"stm32f0xx_rcc.h"
+
+1387221783 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\engines.c
+	"engines.h"
+
+1387221834 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\engines.h
+	"stm32f0xx.h"
+
+1387398428 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\psd.c
+	"psd.h"
+
+1387398458 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\psd.h
+	"slidavg.h"
+
+1384209611 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\scheduler.c
+	"scheduler.h"
+	"stm32f0xx.h"
+
+1384208249 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\scheduler.h
+
+1387477400 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\sensors.c
+	"sensors.h"
+	"stm32f0xx.h"
+	"mpu6050.h"
+	"comm.h"
+	"stabilisation.h"
+	<math.h>
+	"blinky.h"
+	"perftests.h"
+
+1386975795 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\sensors.h
+
+1387482177 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\stabilisation.c
+	"stabilisation.h"
+	"sensors.h"
+
+1387221862 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\stabilisation.h
+	"psd.h"
+	"engines.h"
+
+1375352678 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\src\stm32f0xx_usart.c
+	"stm32f0xx_usart.h"
+	"stm32f0xx_rcc.h"
+
+1387480667 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\comm.c
+	"comm.h"
+	"stm32f0xx.h"
+	"board.h"
+	"circbuffer.h"
+	"engines.h"
+	"stabilisation.h"
+	"perftests.h"
+	"sensors.h"
+	"psd.h"
+	"blinky.h"
+
+1386335492 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\comm.h
+
+1382728549 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\simplebuffer.c
+	"simplebuffer.h"
+
+1382728327 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\simplebuffer.h
+
+1386899598 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\circbuffer.c
+	"circbuffer.h"
+
+1384252328 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\circbuffer.h
+
+1385414555 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\main.h
+	"stm32f0xx.h"
+	"blinky.h"
+	"engines.h"
+	"comm.h"
+
+1375352677 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\src\stm32f0xx_i2c.c
+	"stm32f0xx_i2c.h"
+	"stm32f0xx_rcc.h"
+
+1375352677 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\src\stm32f0xx_dbgmcu.c
+	"stm32f0xx_dbgmcu.h"
+
+1386335006 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\perftests.c
+	"stm32f0xx.h"
+	"perftests.h"
+	"comm.h"
+
+1384206206 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\perftests.h
+
+1386898364 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\mpu6050.c
+	"mpu6050.h"
+	"perftests.h"
+
+1386285154 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\mpu6050.h
+	"stm32f0xx.h"
+	"circbuffer.h"
+
+1386800976 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\board.h
+
+1375352677 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\stm32f0xx_stdperiph_lib_v1.1.0\libraries\stm32f0xx_stdperiph_driver\src\stm32f0xx_adc.c
+	"stm32f0xx_adc.h"
+	"stm32f0xx_rcc.h"
+
+1387148896 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\stabilisation.h
+	"psd.h"
+	"engines.h"
+
+1387397608 c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\inc\slidavg.h
+
+1387398834 source:c:\users\standa\desktop\projects\quadrocopter\quadrocopter-v3-firmware\src\slidavg.c
+	"slidavg.h"
+

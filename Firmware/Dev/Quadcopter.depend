@@ -1,0 +1,496 @@
+# depslib dependency file v1.0
+1421509953 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\keilrtx\rtx_conf_cm.c
+	"cmsis_os.h"
+	"RTX_CM_lib.h"
+
+1360752502 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\keilrtx\cmsis_os.h
+	<cmsis_os.h>
+	"osObjects.h"
+	"osObjects.h"
+	<stdint.h>
+	<stddef.h>
+
+1360752502 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\keilrtx\rtx_cm_lib.h
+	"cs3.h"
+
+1461175377 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\at24c.c
+	"main.h"
+	"AT24C.h"
+	"I2C.h"
+
+1455565186 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\main.h
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"stm32f3xx.h"
+	"cmsis_os.h"
+	"core_cm4.h"
+	"utility.h"
+	"blinky.h"
+	"com.h"
+
+1402652613 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\startup\stm32f3xx.h
+	"stm32f301x8.h"
+	"stm32f302x8.h"
+	"stm32f302xc.h"
+	"stm32f303x8.h"
+	"stm32f303xc.h"
+	"stm32f373xc.h"
+	"stm32f334x8.h"
+	"stm32f318xx.h"
+	"stm32f328xx.h"
+	"stm32f358xx.h"
+	"stm32f378xx.h"
+	"stm32f3xx_hal.h"
+
+1403025234 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\startup\stm32f303xc.h
+	"core_cm4.h"
+	"system_stm32f3xx.h"
+	<stdint.h>
+
+1411491422 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\cmsis\include\core_cm4.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+	<core_cmSimd.h>
+
+1411491422 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\cmsis\include\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1411491422 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\cmsis\include\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1411491422 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\cmsis\include\core_cmsimd.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1402650837 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\startup\system_stm32f3xx.h
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal.h
+	"stm32f3xx_hal_conf.h"
+
+1410817234 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\stm32f3xx_hal_conf.h
+	"stm32f3xx_hal_rcc.h"
+	"stm32f3xx_hal_gpio.h"
+	"stm32f3xx_hal_dma.h"
+	"stm32f3xx_hal_cortex.h"
+	"stm32f3xx_hal_adc.h"
+	"stm32f3xx_hal_can.h"
+	"stm32f3xx_hal_cec.h"
+	"stm32f3xx_hal_comp.h"
+	"stm32f3xx_hal_crc.h"
+	"stm32f3xx_hal_dac.h"
+	"stm32f3xx_hal_flash.h"
+	"stm32f3xx_hal_hrtim.h"
+	"stm32f3xx_hal_i2c.h"
+	"stm32f3xx_hal_i2s.h"
+	"stm32f3xx_hal_irda.h"
+	"stm32f3xx_hal_iwdg.h"
+	"stm32f3xx_hal_opamp.h"
+	"stm32f3xx_hal_pcd.h"
+	"stm32f3xx_hal_pwr.h"
+	"stm32f3xx_hal_rtc.h"
+	"stm32f3xx_hal_sdadc.h"
+	"stm32f3xx_hal_smartcard.h"
+	"stm32f3xx_hal_smbus.h"
+	"stm32f3xx_hal_spi.h"
+	"stm32f3xx_hal_tim.h"
+	"stm32f3xx_hal_tsc.h"
+	"stm32f3xx_hal_uart.h"
+	"stm32f3xx_hal_usart.h"
+	"stm32f3xx_hal_wwdg.h"
+
+1403104571 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_rcc.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_rcc_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_def.h
+	"stm32f3xx.h"
+
+1403104571 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_rcc_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_gpio.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_gpio_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_gpio_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_dma.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_dma_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_dma_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_cortex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_adc.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_adc_ex.h"
+	"stm32f3xx_hal_adc_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_adc_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_can.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_cec.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_comp.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_comp_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_comp_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_crc.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_crc_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_crc_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_dac.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_dac_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_dac_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_flash.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_flash_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_flash_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_hrtim.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_i2c.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_i2c_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_i2c_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_i2s.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_i2s_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_i2s_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_irda.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_irda_ex.h"
+
+1403104571 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_irda_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_iwdg.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_opamp.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_opamp_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_opamp_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403133746 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_pcd.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_pcd_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_pcd_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_pwr.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_pwr_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_pwr_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_rtc.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_rtc_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_rtc_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_sdadc.h
+	"stm32f3xx_hal_def.h"
+
+1403104571 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_smartcard.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_smartcard_ex.h"
+
+1403104571 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_smartcard_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_smbus.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_spi.h
+	"stm32f3xx_hal_def.h"
+
+1414624786 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_tim.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_tim_ex.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_tim_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_tsc.h
+	"stm32f3xx_hal_def.h"
+
+1412163751 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_uart.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_uart_ex.h"
+
+1403104571 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_uart_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403149541 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_usart.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_usart_ex.h"
+
+1403104571 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_usart_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048572 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_wwdg.h
+	"stm32f3xx_hal_def.h"
+
+1411491422 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\cmsis\include\arm_math.h
+	"core_cm7.h"
+	"core_cm4.h"
+	"core_cm3.h"
+	"core_cm0.h"
+	"core_cm0plus.h"
+	"string.h"
+	"math.h"
+
+1461181547 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\utility.h
+
+1424271071 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\blinky.h
+	<stdint.h>
+	"cmsis_os.h"
+
+1421612878 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\com.h
+	<stdint.h>
+	"cmsis_os.h"
+
+1420368322 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\at24c.h
+
+1461176897 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\i2c.h
+
+1429565170 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\batmon.c
+	"batmon.h"
+	"main.h"
+
+1420230035 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\batmon.h
+
+1461083157 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\blinky.c
+	"blinky.h"
+	"main.h"
+
+1416869443 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\clocks.c
+	"clocks.h"
+	"main.h"
+
+1412065474 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\clocks.h
+
+1461181827 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\com.c
+	"main.h"
+	"com.h"
+	"gamepad.h"
+	"stabilisation.h"
+	"I2C.h"
+	"engines.h"
+	"settings.h"
+
+1421510631 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\gamepad.h
+	<stdint.h>
+
+1461181815 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\stabilisation.h
+	"main.h"
+	"quaternions.h"
+	"cmsis_os.h"
+
+1422221288 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\quaternions.h
+
+1455565072 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\engines.h
+	"main.h"
+
+1453148258 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\settings.h
+	"main.h"
+
+1455567553 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\engines.c
+	"engines.h"
+
+1421510607 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\gamepad.c
+	"gamepad.h"
+
+1461177249 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\i2c.c
+	"main.h"
+	"I2C.h"
+
+1453554319 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\inhub.c
+	"inhub.h"
+
+1453144511 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\inhub.h
+	"main.h"
+
+1453593872 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\leds.c
+	"leds.h"
+	"main.h"
+
+1453593754 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\leds.h
+	"main.h"
+
+1453148150 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\mahonyahrs.c
+	"MahonyAHRS.h"
+	"main.h"
+	"stabilisation.h"
+
+1419537324 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\mahonyahrs.h
+
+1461181628 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\main.c
+	"main.h"
+	"stabilisation.h"
+	"supervisor.h"
+	"clocks.h"
+	"leds.h"
+	"engines.h"
+	"I2C.h"
+	"AT24C.h"
+	"sensors.h"
+	"batmon.h"
+	"settings.h"
+
+1429565022 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\supervisor.h
+	"stm32f3xx.h"
+	"cmsis_os.h"
+	"core_cm4.h"
+	"arm_math.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"cmsis_os.h"
+
+1420315819 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\sensors.h
+	"main.h"
+
+1453589301 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\outhub.c
+	"outhub.h"
+	"leds.h"
+
+1453586526 c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\outhub.h
+	"outhub.h"
+	"main.h"
+	"utility.h"
+
+1422221309 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\quaternions.c
+	"main.h"
+	"quaternions.h"
+
+1461178112 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\sensors.c
+	"sensors.h"
+	"main.h"
+	"I2C.h"
+
+1461182571 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\stabilisation.c
+	"stabilisation.h"
+	"main.h"
+	"I2C.h"
+	"engines.h"
+	"batmon.h"
+	"quaternions.h"
+	"MahonyAHRS.h"
+	"sensors.h"
+	"leds.h"
+
+1429564976 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\supervisor.c
+	"supervisor.h"
+
+1455568325 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\utility.c
+	"utility.h"
+	"main.h"
+
+1421070671 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\startup\startup_stm32f303xc.s
+
+1402650837 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\startup\system_stm32f3xx.c
+	"stm32f3xx.h"
+
+1403048566 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal.c
+	"stm32f3xx_hal.h"
+
+1403048566 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_adc.c
+	"stm32f3xx_hal.h"
+
+1403051246 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_adc_ex.c
+	"stm32f3xx_hal.h"
+
+1403048566 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_cortex.c
+	"stm32f3xx_hal.h"
+
+1403104571 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_dma.c
+	"stm32f3xx_hal.h"
+
+1403139006 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_gpio.c
+	"stm32f3xx_hal.h"
+
+1403141137 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_i2c.c
+	"stm32f3xx_hal.h"
+
+1403048566 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_i2c_ex.c
+	"stm32f3xx_hal.h"
+
+1403104571 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_pwr.c
+	"stm32f3xx_hal.h"
+
+1403048566 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_pwr_ex.c
+	"stm32f3xx_hal.h"
+
+1403048566 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_rcc.c
+	"stm32f3xx_hal.h"
+
+1403048566 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_rcc_ex.c
+	"stm32f3xx_hal.h"
+
+1403048566 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_sdadc.c
+	"stm32f3xx_hal.h"
+
+1403048566 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_tim.c
+	"stm32f3xx_hal.h"
+
+1403048566 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_tim_ex.c
+	"stm32f3xx_hal.h"
+
+1403048566 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_uart.c
+	"stm32f3xx_hal.h"
+
+1403048566 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\stm32f3xx_hal_driver\stm32f3xx_hal_uart_ex.c
+	"stm32f3xx_hal.h"
+
+1461182401 source:c:\users\standa\desktop\projects\quadrocopter\!svn\firmware\dev\sources\settings.c
+	"settings.h"
+	"main.h"
+	"I2C.h"
+	"AT24C.h"
+	"stabilisation.h"
+
